@@ -12,7 +12,6 @@ function App() {
         </div>
         <Calculator />
         <footer className="mt-8 text-sm text-slate-400">
-
         </footer>
       </div>
     </ThemeProvider>
