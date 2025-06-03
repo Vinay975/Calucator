@@ -12,7 +12,7 @@ function App() {
         </div>
         <Calculator />
         <footer className="mt-8 text-sm text-slate-400">
-          <p>© 2025 Advanced Calculator • Built with React and Framer Motion</p>
+
         </footer>
       </div>
     </ThemeProvider>
